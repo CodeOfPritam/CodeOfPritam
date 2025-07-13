@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3E8EDE&center=true&vCenter=true&width=650&lines=Hi+I'm+Pritam+Saha;B.Tech+CSE+Undergrad+%7C+AI+Enthusiast;Learning+ML+%26+Full-Stack+Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3E8EDE&center=true&vCenter=true&width=650&lines=Hi+I'm+Pritam+Saha;B.Tech+CSE+Undergrad+%7C+Tech+And+AI+Enthusiast;Learning+ML+%26+Full-Stack+Web+Development" />
 </p>
 
 
@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a **2nd year B.Tech CSE student** at **UEM Kolkata**
-- 🧠 Passionate about **AI/ML**, **Full-Stack Web Development**, and **System Design**
-- 🛠️ Currently exploring **Node.js**, **React**, **Machine Learning** and **Cloud Technologies**
-- 🏆 Winner of **HackSnippet 3.0** – Exion Tech Track (Best AI Inception)
-- 📌 Based in **Panihati, West Bengal, India**
+- 🎓 I'm a *2nd year B.Tech CSE student* at *UEM Kolkata*
+- 🧠 Passionate about *AI/ML, **Full-Stack Web Development, and **System Design*
+- 🛠 Currently exploring *Node.js, **React, **Machine Learning* and *Cloud Technologies*
+- 🏆 Winner of *HackSnippet 3.0* – Exion Tech Track (Best AI Inception)
+- 📌 Based in *Panihati, West Bengal, India*
 
 ---
 
@@ -47,9 +47,9 @@
 ### 🧠 Projects & Interests
 
 - 💬 Voice Assistant – J.A.R.V.I.S. powered by Python and Gemini AI
-- 🖱️ Gesture Controlled Mouse – Built using Python, OpenCV, and Hand Tracking Modules
+- 🖱 Gesture Controlled Mouse – Built using Python, OpenCV, and Hand Tracking Modules
 - 🤖 Developing Machine Learning Models – Focused on prediction and classification tasks using scikit-learn, pandas, and NumPy
-- ☁️ Introduction to Cloud Computing & AWS – Completed via Coursera
+- ☁ Introduction to Cloud Computing & AWS – Completed via Coursera
 - 📊 Interested in creating visually appealing dashboards and AI integrations
 
 
@@ -59,11 +59,11 @@
 
 - 📧 Email: [pritamsaha102005@gmail.com](mailto:pritamsaha102005@gmail.com)
 - 💼 LinkedIn: [Pritam Saha](https://www.linkedin.com/in/pritam-saha-5a6738317/)
-- 🌐 Portfolio: _coming soon_
+- 🌐 Portfolio: coming soon
 
 ---
 
-### ⚡ Fun Fact
-> I believe in “**Work hard in silence, let your success make the noise.**” 🧠✨
+### ⚡ Quote I Believe In
+> “*Work hard in silence, let your success make the noise.*” 🧠✨
 
 ---
