@@ -56,7 +56,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [pritamsaha072@gmail.com](mailto:pritamsaha072@gmail.com)
+- 📧 Email: [pritamsaha102005@gmail.com](mailto:pritamsaha102005@gmail.com)
 - 💼 LinkedIn: [Pritam Saha](https://www.linkedin.com/in/pritam-saha-5a6738317/)
 - 🌐 Portfolio: _coming soon_
 
