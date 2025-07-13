@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3E8EDE&center=true&vCenter=true&width=650&lines=Hi+I'm+Pritam+Saha;B.Tech+CSE+Undergrad+%7C+Tech+And+AI+Enthusiast;Learning+ML+%26+Full-Stack+Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3E8EDE&center=true&vCenter=true&width=650&lines=Hi+I'm+Pritam+Saha;B.Tech+CSE+Undergrad+%7C+Tech+And+AI+Enthusiast;Learning+ML+%26+Full-Stack+Development" />
 </p>
+
 
 
 
