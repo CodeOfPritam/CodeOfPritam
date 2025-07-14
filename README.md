@@ -17,10 +17,10 @@
 ### 🚀 About Me
 
 - 🎓 I'm a *2nd year B.Tech CSE student* at *UEM Kolkata*
-- 🧠 Passionate about *AI/ML, **Full-Stack Web Development, and **System Design*
-- 🛠 Currently exploring *Node.js, **React, **Machine Learning* and *Cloud Technologies*
-- 🏆 Winner of *HackSnippet 3.0* – Exion Tech Track (Best AI Inception)
-- 📌 Based in *Panihati, West Bengal, India*
+- 🧠 Passionate about **AI/ML**, **Full-Stack Web Development**, and **System Design**
+- 🛠 Currently exploring **Node.js**, **React**, **Machine Learning** and **Cloud Technologies**
+- 🏆 Winner of **HackSnippet 3.0** – Exion Tech Track (Best AI Inception)
+- 📌 Based in **Panihati, West Bengal, India**
 
 ---
 
